@@ -6,7 +6,7 @@ Finish
 
 2. Spark Structured API DataFrames Part I
 Start
-
+Finish
 
 2. Spark Structured API DataFrames Part II
 3. Spark Types and Datasets
