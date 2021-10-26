@@ -14,7 +14,7 @@ Finish
 
 3. Spark Types and Datasets
 Start
-
+Finish
 
 4. Spark SQL
 5. Low-Level Spark
