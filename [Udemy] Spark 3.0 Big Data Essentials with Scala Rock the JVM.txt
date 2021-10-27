@@ -17,5 +17,8 @@ Start
 Finish
 
 4. Spark SQL
+Start
+
+
 5. Low-Level Spark
 6. Epilogue
