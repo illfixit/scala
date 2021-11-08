@@ -3,7 +3,7 @@ Functional Programming for Beginners
 
 1. Chapter 1 
 Start
-
+Finish
 
 2. The Absolute Scala Basics 
 3. Object-Oriented Programming in Scala 
