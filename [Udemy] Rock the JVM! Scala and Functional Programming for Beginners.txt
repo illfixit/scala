@@ -1,0 +1,10 @@
+[Udemy] Rock the JVM! Scala and 
+Functional Programming for Beginners
+
+1. Chapter 1 
+2. The Absolute Scala Basics 
+3. Object-Oriented Programming in Scala 
+4. Coding practice A Small File System 
+5. Functional Programming in Scala 
+6. Pattern Matching 
+7. You rock! 
