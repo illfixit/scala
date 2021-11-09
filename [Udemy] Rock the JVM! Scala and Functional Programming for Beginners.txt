@@ -5,7 +5,10 @@ Functional Programming for Beginners
 Start
 Finish
 
-2. The Absolute Scala Basics 
+2. The Absolute Scala Basics
+Start
+
+
 3. Object-Oriented Programming in Scala 
 4. Coding practice A Small File System 
 5. Functional Programming in Scala 
