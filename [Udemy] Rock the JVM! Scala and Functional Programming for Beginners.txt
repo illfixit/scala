@@ -7,7 +7,7 @@ Finish
 
 2. The Absolute Scala Basics
 Start
-
+Finish
 
 3. Object-Oriented Programming in Scala 
 4. Coding practice A Small File System 
