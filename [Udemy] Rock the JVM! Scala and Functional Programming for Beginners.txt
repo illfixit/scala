@@ -9,7 +9,10 @@ Finish
 Start
 Finish
 
-3. Object-Oriented Programming in Scala 
+3. Object-Oriented Programming in Scala
+Start
+
+
 4. Coding practice A Small File System 
 5. Functional Programming in Scala 
 6. Pattern Matching 
